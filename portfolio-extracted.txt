@@ -1,0 +1,510 @@
+ON-THE-JOB TRAININGON-THE-JOB TRAINING
+ON-THE-JOB TRAINING
+ON-THE-JOB TRAINING
+PP
+P
+P
+COLLEGE OF ARTS, SCIENCE, AND TECHNOLOGYCOLLEGE OF ARTS, SCIENCE, AND TECHNOLOGYOO
+COLLEGE OF ARTS, SCIENCE, AND TECHNOLOGY
+COLLEGE OF ARTS, SCIENCE, AND TECHNOLOGY
+O
+O
+BSIT 4CBSIT 4CJericho C. BatolioJericho C. BatolioLLOOIIOOFFTTRR
+BSIT 4C
+BSIT 4C
+Jericho C. Batolio
+Jericho C. Batolio
+L
+L
+O
+O
+I
+I
+O
+O
+F
+F
+T
+T
+R
+R
+INFORMATION TECHNOLOGY DEPARTMENT
+2nd Semester A.Y. 2021-2022
+ON-THE-JOB TRAINING
+at
+OCCIDENTAL MINDORO STATE COLLEGE
+(MULTIMEDIA)
+In Partial Fulfillment of 
+The requirements for
+BACHELOR OF SCIENCE INFORMATION TECHNOLOGY
+Submitted by:
+JERICHO C. BATOLIO
+BSIT 4C
+Submitted to:
+MS. LEIZA LINDA L. PELAYO
+OJT COORDINATOR
+Date submitted:
+May 2025
+Acknowledgement
+The successful completion of this On-the-Job Training would not have been possible without the unwavering support, guidance, and encouragement of many individuals. I would like to extend my sincere gratitude and appreciation to everyone who played a significant role in my internship journey and contributed to the success of my OJT experience. Their efforts and support are deeply valued and will always be remembered.
+First and foremost, I would like to express my heartfelt thanks to our OJT Adviser, Ms. Leiza Linda L. Pelayo, for her constant guidance, insightful advice, and continuous motivation throughout this journey. Her encouragement helped me overcome various challenges and inspired me to always strive for excellence. Her professional mentorship served as a strong foundation in achieving this milestone.
+I would also like to extend my gratitude to my institution, Occidental Mindoro State College, for providing me with the opportunity to grow and develop as a Bachelor of Science in Information Technology student. The knowledge, skills, and values I have gained from the institution have greatly contributed to my personal and professional growth, shaping me into a more competent and responsible individual.
+To my beloved parents, I am deeply thankful for your unwavering love, sacrifices, and financial support. Your constant encouragement and belief in my abilities have strengthened my determination to pursue and achieve my goals. Thank you for being my source of strength, comfort, and inspiration throughout my academic journey.
+To my dear friends, thank you for your companionship, encouragement, and for being there during both joyful and challenging times. Your presence brought comfort during stressful moments and added happiness to this journey. Your support truly helped me stay motivated and positive.
+Above all, I offer my deepest gratitude to Almighty God for His endless blessings, guidance, and unconditional love. He has been my source of strength and hope, especially during times of difficulty. His guidance has helped me persevere and successfully complete my On-the-Job Training. With a heart full of gratitude, I entrust all my achievements to Him.
+TABLEOFCONTENTS
+TitlePage(precededbyablanksheet) Acknowledgment
+Table of Contents StudentTraineePrayer 
+PersonalPhilosophy Career Plan
+CHAPTERI: INTRODUCTION
+ImportanceofInternship
+ObjectivesofInternship
+TimeandPlaceoftheInternship
+CHAPTERII: COMPANYPROFILE
+NatureoftheAgency
+Mission/Vision/GoalStatement
+History/BackgroundoftheAgency/Officewithpictures
+OrganizationalStructure
+CHAPTERIII:WORKEXPERIENCES
+Weeklyaccomplishmentreport
+DailyTimeRecord
+InternshipProgressReport
+InternshipAnalysisReport
+CHAPTERIV: ASSESSMENTOFTHEPRACTICUMPROGRAM
+StudentInternshipEvaluationForm
+APPENDICES:
+Appendix A: EvaluationForm(Registrar’sOffice) Appendix B: Photocopy Registration Form 
+Appendix C:Photocopy Validated ID
+Appendix D:Parent’s Consent Appendix E:MedicalCertificate
+Appendix F:Certificate of Good Moral Character
+Appendix G:Application Letter
+Appendix H:Endorsement Letter Appendix I:Memorandum of Agreement
+AppendixJ:DailyTimeRecord(TimeCard)
+Appendix K:Certificate of Completion (Placement Agency/Office)
+Appendix L:Certificate of Clearance (Placement Agency/Office)
+AppendixM:Performance/ProficiencyRatingSheet(Placement Agency/Office)
+Appendix N:PicturesduringPre-serviceSeminar Appendix O:Pictures during Office works
+Appendix P:Code of Ethics for CAST Student Internship 
+Appendix Q: Curriculum Vitae
+AppendixR:On-the-JobTrainingPortfolioEvaluationFor
+Student Trainee Prayer
+Heavenly Father,
+With a grateful heart, I come before You as I begin this journey as a student trainee. Thank You for the opportunity to learn, grow, and discover my potential. Guide me in every task that I undertake, and bless the work of my hands and mind.
+Grant me wisdom to understand what is taught, courage to face new challenges, and patience when things become difficult. Help me to remain focused, responsible, and committed to doing my best in all that I do.
+May I be respectful and cooperative with my supervisors, mentors, and fellow trainees. Teach me to accept corrections with humility and to use them as stepping stones toward improvement.
+Fill my heart with determination and passion so that I may continue striving for excellence. Remind me that every effort I make today will shape the person I will become tomorrow.
+Lord, I entrust to You my dreams, my goals, and my future. Walk with me in every step, and may Your light guide me toward success and purpose.
+Amen.
+Personal Philosophy
+My philosophy in life revolves around continuous growth, compassion, and resilience. I believe that life is an ongoing journey of learning and self-discovery, where every experiencewhether joyful or challengingoffers valuable lessons. By treating others with sincerity, kindness, and empathy, we can create a positive impact that extends beyond what we can see.
+Living with integrity is essential to me; it means staying true to my values and principles, even in difficult situations. I embrace change with courage, recognizing that it often opens doors to new opportunities and broadens my perspective. I also believe that practicing gratitude is vital to a fulfilling life, as it helps shift my focus toward the blessings I have rather than what I lack.
+Through self-reflection, I gain a deeper understanding of myself and develop greater empathy for others. I aim to maintain balance in all aspects of my life, ensuring that my goals do not come at the expense of my well-being. I see mistakes and setbacks not as failures, but as important lessons that build strength and character.
+Above all, I believe that life is about finding purpose and building meaningful connections that inspire, uplift, and bring out the best in ourselves and others.
+Career Plan
+God’s plan is always greater than our own, but that does not mean we should stop planning for the future. Instead, it reminds us to trust His guidance while continuing to work hard toward our goals.
+As a Bachelor of Science in Information Technology (BSIT) student, completing my On-the-Job Training (OJT) has been one of the most eye-opening experiences in my academic journey. It allowed me to witness the real-world application of the knowledge and skills I have learned in school. More importantly, it helped me gain a clearer understanding of the kind of professional I aspire to become. This experience motivated me to create a well-defined career plan that will serve as my guide in achieving my goals.
+After graduation, my immediate goal is to secure an entry-level position in the field of Information Technology. I am particularly interested in roles such as a web developer, where I can apply my technical skills while continuing to learn and grow. I aim to gain hands-on experience, improve my expertise, and build a strong foundation in the industry.
+In the coming years, I envision myself as a confident and competent IT professional. I see myself working in an environment where I am valued, contributing to meaningful projects that I am passionate about. I will have grown both professionally and personallyenhancing my technical abilities, improving my problem-solving skills, and becoming more effective in collaborating with people from diverse backgrounds.
+I also aspire to take on greater responsibilities, such as leading small projects or teams and mentoring aspiring IT professionals who are just beginning their careers. I am committed to continuous learning, keeping up with emerging technologies, and adapting to the ever-changing demands of the IT industry. Above all, I strive to become someone who perseveres despite challenges, remains dedicated, and achieves success through hard work and determination.
+The transition from being a student to becoming a successful IT professional requires time, effort, and careful planning. Through my OJT experience, I have realized the importance of setting clear goals and pursuing them with focus and determination. Although the journey may not always be easy, I am prepared to face challenges and embrace every opportunity for growth.
+With my career plan as my guide, I am confident that I will achieve my aspirations and become the person I envisionskilled, successful, and fulfilled in my chosen career.
+CHAPTERI
+INTRODUCTION
+Introduction
+IMPORTANCE OF INTERNSHIP
+On-the-Job Training (OJT) is an essential part of the institution’s curriculum that allows students to undergo practical training in various fields of work. It serves as a pathway for students in preparing for their future careers. OJT is a form of skill development where students learn how to perform tasks through hands-on experience. This training method exposes students to real work environments, giving them the opportunity to apply the theories and knowledge they have learned in school. It bridges the gap between academic learning and practical application. Moreover, OJT helps students acquire relevant skills, knowledge, and competencies by performing tasks in an actual workplace setting, making them more prepared and confident for their future professions..
+OBJECTIVES OF THE INTERNSHIP
+On-the-Job Training plays a vital role not only in educating students about their chosen careers but also in exposing them to the realities of the workplace. It allows students to experience tasks and responsibilities related to their field of study, giving them a clearer understanding of professional expectations.The internship serves as a stepping stone for students to gain valuable knowledge and practical experience that will benefit them in their future careers. It helps develop their competence and enables them to perform tasks effectively and efficiently. Additionally, OJT enhances students’ professionalism by teaching them how to interact and communicate with different types of people in the workplace.Through this training, students learn how to handle real-life situations, solve problems, and work collaboratively with colleagues. By the end of the internship, they are expected to become more confident, responsible, and socially adaptable individuals..
+TIME AND PLACE OF THE INTERNSHIP
+On-the-Job Training requires dedication, effort, and a serious commitment from student trainees. It is an important phase in a student’s journey, as it prepares them for the transition from academic life to becoming professionals. Students must take this opportunity seriously, as it can greatly influence their future career paths and may even serve as a basis for recommendations from their supervisors.
+Having a well-structured OJT experience plays a significant role in shaping future professionals. The knowledge and skills gained during the trainingeven the simplest onescan be applied in future job roles. It is a process through which students are molded into competent and capable individuals, ready to face the demands of the professional world.
+CHAPTERII
+COMPANYPROFILE
+Nature of the Agency
+Mission/Vision/Goal Statement
+History/Background of the
+Agency/Office with pictures
+About the College
+Occidental Mindoro State College  in the only state college in the province of Occidental Mindoro located in the heart of them municipality of San Jose, which is a stone’s throw away from the Municipal Hall and the St. Joseph, The Work Cathedral. The town on the other hand, is located 130 kilometers southeast of the Provincial Capital and in approximately 230 nautical miles from the National Capital Region.
+The College had its humble beginning as a Barrio High School in 1966 patterned after Dr. Pedro Orata’s Barangay High School, an idea conceived by San Jose Pilot Elementary School PTA President and also town Mayor Juan G. Santos, Sr. and worked out by the Schools Division Superintendent, Mr. Sofronio Fadre and East District Supervisor, Mr. Mariano Ramirez.Mayor Tirso Abeleda in 1967approved Resolution No. 23 adopting and constituting the self-supporting public secondary school as the San Jose Municipal High School.
+The late Congressman Pedro C. Medalla, Sr. authored R.A. No. 6568, which elevated San Jose Municipal High School into San Jose National High School (SJNHS). Mr. Bernabe Macaraig was appointed Principal. Enrollment grew significantly during that time, reaching up to 3,000.
+On June 24, 1986, by the virtue of Batas Pambansa Blg. 531, sponsored by the late Congressman Pedro T. Mendiola, Sr. SJNHS was elevated into Occidental Mindoro State College with Mr. Bernabe Macaraig as its first Superintendent.
+On April 1, 1886, Ministry of Educational Culture and Sports (MECS) Minister, Lourdes R. Quisumbing appointed Mrs. Virginia A. Sicat, then Assistant Principal, as Officer-In-Charge of OMSC. On the same year, Dr. Ofelia A. Rebong was installed as the first President of the College. It was during her seven years’ term as College President that staff development was given due consideration.
+In the school year 1991-1992, the College absorbed the Occidental Mindoro Community College, Mamburao as a satellite campus offering baccalaureate and non-degree courses. It had likewise acquired the 98.8725-hectare lot from the Organization for the International Scientific and Cultural Advancement Council (OISCA) through the Provincial Board and Provincial Development Council. The satellite campus became known as the OMSC-Mamburao Campus.
+After the retirement of Dr. Rebong, the then Vice President for Academic Affairs and Dean of the Graduate School, Dr. Sofronio S. Sanqui, was appointed College President on December 19, 1994 and sworn into office on December 29, of the same year by DECS Secretary Ricardo T. Gloria.
+Focusing on human resource development and student’s welfare, Dr. Sanqui’s management priorities brought about significant shifts in the social, cultural and economic structure of the College.
+OMSC has grown tremendously and has opened up four (4) service areas namely: the Damayan Center constructed in a 2-hectare land donated by Mr. Romeo Lumbo in San Isidro, San Jose, Occidental Mindoro; OMSC-Mamburao; the Experimental Forestry - 28.4974 – hectare land adjacent to the Damayan Center; the Caminawit Extension Program in Caminawit, San Jose, Occidental Mindoro and the Agro-Forestry Center which is now fully developed located at a 8.7 hectare land at Brgy. Labangan, San Jose, Occidental Mindoro.
+In the year 200, R.A. 8760, otherwise known as the General Appropriations Act brought about significant reforms in the educational system especially to OMSC. It became the host CHED supervised institutions in the province, namely; the Occidental Mindoro Polytechnic College (OMPC) in Murtha San Jose, Occidental Mindoro and the Pedro T. 
+Mendiola, Sr. Memorial Technological and Polytechnic College in Brgy. Bagong Sikat, San Jose, Occidental Mindoro. With the integration, OMPC became known as OMSC – OMPC Campus, while the PTMSMTPC was renamed to OMSC – PTMSMTPC and now situated at the Labangan Campus.
+The metamorphoses of the institution from a Barangay High School into a host SUC in the province, poses a continuing challenge for its officials and the academic community as it serves the youths of Occidental Mindoro and its neigh boring provinces.
+After 15 years of sterling and dedicated service to the institution. Dr. Sofronio S. Sanqui, the 2nd College President retired. He was replaced by Dr. Arnold N. Venturina, when the Board of Trustees of the College elected the latter as the 3rd College President on September 11, 2009. With the change of administration several significant changes on the programs and policies of the college were also affected.
+Three months to Dr. Venturina’s presidency, her Excellency Gloria Macapagal-Arroyo signed R.A. 9747, otherwise known as an “act renaming Occidental Mindoro National College as the Occidental Mindoro State College”, on November 10, 2009, whose principal sponsor was Congresswoman and deputy Speaker, Hon. Amelita C. Villarosa.
+On May 1, 210, the College was conferred the “San Jose Builders Award” (Education Sector) by the San Jose Centennial Commission. This was in recognition of its significant contributions to the progress and development of the town of San Jose.
+Guided by its Vision, Mission, Goals and Objectives and by its four pillars of service – Institution, Research Development, Extension and Production, the College continues its pursuit for quality tertiary education in the province and is committed to serve the youth as an institution of higher learning.
+Organization Structure
+CHAPTERIII
+WORKEXPERIENCES
+Monthly Accomplishment Report
+Name:Jericho C. BATOLIO
+Date: May 5, 2025
+Internship Site:  MULTIMEDIA
+Approximate Start Date:  Jan. 27, 2026
+Approximate End Date:  April
+Date of Activity
+          Description of the Activity 
+Problem
+Remarks
+January 27- 30, 2026
+Performed paper shredding of unnecessary and confidential documents to ensure proper disposal.
+Monitored computer units and laboratory activities to maintain order and ensure proper usage of equipment.
+Assisted students with their assigned tasks and provided basic troubleshooting for computer-related issues.
+None
+Accomplished
+February
+2- 27, 2026
+Maintained the cleanliness and organization of computer units and laboratory facilities.
+Conducted an inventory of computer units, peripherals, and other equipment to ensure all items were accounted for and in good condition.
+Labeled and recorded each item following the established identification system, ensuring accurate and updated documentation for efficient tracking.
+Verified the condition and completeness of all equipment, and reported any discrepancies or maintenance needs to ensure proper management and usability.
+Performed cleaning of CPU units and keyboards during the Siglakas event to maintain functionality and hygiene of the equipment.
+None
+Accomplished
+March
+2-27, 2026
+Performed paper shredding of unnecessary documents to maintain proper document management.
+Assisted students in identifying and checking the correct arrangement of straight-through and crossover cables for RJ45 connections.
+Guided students in understanding color coding and proper wiring standards used in network cabling.
+Provided basic technical support and assistance during laboratory activities.
+None
+Accomplished
+April
+2-23, 2026
+Assisted students in identifying and verifying the correct arrangement of straight-through and crossover cables for RJ45 connections.
+Helped the instructor in checking students’ activities using a patch panel.
+Guided students in understanding color coding and proper wiring standards in network cables.
+None
+Accomplished
+       TOTAL
+         TIME
+486
+HOURS
+Prepared & Submitted by: Noted by:
+JERICHO  C. BATOLIOREYNIEL RAFAEL
+Student TraineeIQA/Job Order
+Daily Time Record
+Internship Progress Report
+Name: Jericho C. Batolio
+Date:
+Internship Site: MULTIMEDIA
+Hours Completed: 486
+The report covers the following dates: 
+From:January 27- April, 2026
+Objectives 
+Work Status 
+Problems Met
+1. Monitored computer units, equipment, and laboratory activities to ensure proper usage and functionality.
+Accomplished
+None
+2. Conducted inventory of computer units, peripherals, and other laboratory equipment.
+Accomplished
+None
+3. Performed preventive maintenance on computer systems such as cleaning, updating software, and checking hardware conditions.
+Accomplished
+None
+4. Assisted students with technical concerns, system navigation, and basic troubleshooting.
+Accomplished
+None
+5. Troubleshot network issues including connectivity problems and basic configuration of network devices.
+Accomplished
+None
+The following report accurately describes the internship activities completed to date: 
+Intern:Jericho C.  BatolioDate:___________have read the attached report and concur with its content: 
+Site supervisor: MS. MARITES ESCULTOR  MSIT                         Date:____________
+Internship Analysis Report
+Name:Jericho C. Batolio
+Date:May 5, 2025
+Internship Site:Multimedia
+1. Setting
+During my internship, I was actively engaged in both administrative and technical support tasks, including data encoding, document filing, scheduling, and assisting in user intake as well as record updates. I chose to immerse myself in these responsibilities to gain hands-on experience and further enhance my practical skills through real-world exposure.
+Upon my initial observation, I found that the organization maintained a well-structured and task-oriented environment. The workplace emphasized accuracy, accountability, and collaboration among team members. The staff were approachable, supportive, and cooperative, which contributed to a smooth workflow and efficient handling of technical concerns. Additionally, there was a strong emphasis on maintaining the functionality of equipment and ensuring that users had a productive and satisfactory experience.
+2. Site Supervisor
+My site supervisor exhibited excellent technical expertise and effective leadership qualities. They provided clear instructions, guided me through various troubleshooting procedures, and offered constructive feedback to help me improve. Their willingness to share knowledge enabled me to better understand both fundamental and more advanced technical tasks.
+Through their guidance and mentorship, I gained confidence in managing computer systems, assisting users, and resolving technical issues. I truly appreciated their patience, support, and encouragement, which motivated me to continuously enhance my skills. Furthermore, I also learned a great deal from other staff members who contributed to my growth by teaching me efficient and professional ways of completing tasks.
+3. Environmental Conditions or Events
+Throughout the duration of my internship, I did not encounter any significant problems or major challenges. The working environment was highly supportive and conducive to learning, allowing me to focus on developing my skills effectively. The facilities were well-maintained, and the workflow was organized and systematic, making it easier to accomplish assigned tasks. Overall, the positive environment contributed greatly to a productive and meaningful internship experience.
+4. Self-Assessment
+One of the most valuable lessons I gained during my internship was the importance of responsibility, initiative, and a strong work ethic. I realized that being proactive, adaptable, and open to learning new things significantly improves both performance and self-confidence. I also developed better time management, communication, and problem-solving skills, especially when handling multiple responsibilities and assisting different individuals.
+I contributed to the organization by completing my assigned tasks with diligence and efficiency, assisting students with their concerns, and helping ensure that computer systems remained functional. I also demonstrated dedication by rendering additional hours and applying the knowledge and skills I acquired from my academic studies. This experience allowed me to become more independent, reliable, and capable in a professional setting.
+5. General
+My internship experience provided me with valuable practical knowledge and meaningful exposure to real-world applications in the field of Information Technology. It helped me gain a clearer perspective on my chosen career path and strengthened my determination to achieve my long-term goals.
+Moreover, this experience taught me the importance of maintaining a positive attitude, being flexible, and continuously learning from feedback and experiences. I realized that every task—whether simple or complex—plays a vital role in personal and professional development. Overall, my internship journey has been a significant stepping stone toward becoming a competent and responsible IT professional.
+CHAPTERIV
+ASSESMENT OF THE PRACTICUM PROGRAM
+STUDENT INTERNSHIP EVALUATION FORM
+2nd SEMESTER, SY 2024-20245
+Name of Student: Jericho C. Batolio
+Name of Agency: Multimedia
+Address of Agency: San Jose  Occidental Mindoro
+Instruction: Using a five-point scale, evaluate the field instruction student using the following equivalent:
+Legend:SR –     Student Self-Rating
+PR –    Peer Rating
+SICR – Student Internship Coordinator Rating 
+ASR – Agency Supervisor Rating
+5 –Very adequate knowledge gained, appropriate skills demonstrated, and proper attitude 
+displayed without much supervision
+4 – Adequate knowledge gained, appropriate skills demonstrated, and proper working habits 
+with less supervision
+3 – Sufficient knowledge gained, enough skills demonstrated, and shows interest in improvement
+2 – Minimal knowledge gained, limited skills demonstrated, and shows interest in improvement
+1 – Little knowledge gained, little skills demonstrated, and shows no interest in improvement
+Please DON’T fill in gray-shaded boxes
+PARTICULARS
+SR
+PR
+SICR
+ASR
+Quantitative
+Performance of an assigned task
+Number of hours earned in internship practice
+Number of cases/reports handled
+Preparation of records
+4.1 client’s record
+4.2 student’s process recordings
+Preparation and submission of records/reports
+5.1 regular reports
+5.2 self-evaluation reports
+5.3 other assigned reports
+Attendance at conferences, meetings, case presentation
+Qualitative
+Work Habits/Traits
+Punctuality and regularity in:
+1.1 Work attendance
+1.2 Submitting Requirements
+1.3 Attending conferences/supervisory sessions
+Observance of rules and regulations relating to Internship/OJT
+2.1 In school
+PARTICULARS
+SR
+PR
+SICR
+ASR
+2.2 In the agency
+Positive working relationship with:
+3.1 Clients
+3.2 Colleagues
+3.3 Other agency staff
+3.4 Agency supervisor
+Resourcefulness/initiative
+Willingness to accept responsibility
+Tactfulness
+Knowledge
+Course objectives
+The agency, its mission, functions, goals, and objectives
+Work values, philosophy, goals, methods, skills, techniques, tools, etc.
+Principles of the helping relationship
+Models of intervention
+Social realities/ issues affecting agency and client system
+Documentation
+Evaluation
+Skills
+Ability to function within the agency setting
+Ability to use the helping process
+2.1 Identifying and eliciting sufficient information for understanding the agency/client’s problem/situation
+2.2 Drawing client’s feelings
+2.3 Empathizing with client
+2.4 Establishing rapport and engaging client into a relationship
+2.5 Using differential diagnosis
+2.6 Ability to analyze the situation by identifying the factors that contributed to it
+2.7 Ability to identify the strengths and weaknesses to help solve the problem
+2.8 Ability to prepare an intervention plan 
+2.9 Skills in structuring
+2.10 Ability to use various techniques
+2.11 Ability to mobilize the agency/community human resources
+2.12 Ability to evaluate clients 
+Ability to identify the issues and realities that affect the client’s situation
+Ability to document the necessary process and situation
+Ability to evaluate self in one’s professional development
+Conscious Use of Self
+Attitude towards self
+1.1 Demonstration of conscious and disciplined use of self
+1.2 Identification with the ethics and values of the profession
+1.3 Recognition and use of role as a learner
+1.4 Acceptance of one’s limitations and the need to change
+PARTICULARS
+SR
+PR
+SICR
+ASR
+Attitude towards work and tasks
+2.1 Organizing, ranking, and planning work
+2.2 Appreciation and recognition of the meaning and significance of work done
+2.3 Functioning cooperatively with professionals and paraprofessionals
+2.4 Adopting and adjusting to work situations
+2.5 Sensitivity to other’s needs and feelings
+Attitude towards the supervisor
+3.1 Recognition of supervisor’s role and authority
+3.2 Recognition of and respect for supervisor’s abilities and limitations
+Computation: 58 items
+Peer rating:                 x
+     58 x .10 = 
+Self-rating:x
+                          58 x .10 = 
+ASR:                            x
+58 x .50 = 
+PSR:                             x
+                         58 x .30 = 
+Add:  x+x+x+x = x
+Where:
+5       =    96 – 100
+4       =    91 – 95
+3       =    86 – 90
+2       =    81 – 85
+1       =   75  - 80
+General Comments on Student’s Overall Performance: 
+Raters:
+JERICHO C. BATOLIOWILLIA MAE N.PERALTA
+Student Intern                                                                                           Peer
+     Signature over printed name                                                            Signature over printed name
+     Date:  __________________                                                           Date: _________________
+MS. LEIZA LINDA L. PELAYO, MAITE
+                                                      Student Internship Coordinator
+        Signature over printed name
+          Date: ________________
+ROSARIO FE A. MENDIOLA, MD  
+Medical Officer III
+Signature over printed name
+  Date: ___________________
+APPENDICES 
+APPENDIX A-R
+Appendix A:
+Evaluation Form (Registrar’s Office)
+Appendix B:
+Photocopy Registration Form
+Appendix C:
+Photocopy Validated ID
+Appendix D:
+Parent’s Consent
+Appendix E:
+Medical Certificate
+Appendix F
+Certificate of Good Moral Character
+Appendix G:
+Application Letter
+January 26, 2026
+MS. MARITES D. ESCULTOR
+Program Chair, BSIT
+OMSC - San Jose Campus
+Dear Ma’am,
+             Greetings of peace!
+              I am writing to formally express my interest in applying for an On-the-Job Training (OJT) position in the Office of the Scholarship Program. I am currently a fourth-year student taking up Bachelor of Science in Information Technology at Occidental Mindoro State College – San Jose Campus.
+            As a student who is eager to support both my academic journey and personal development, I believe that undergoing my On-the-Job Training in your office will allow me to gain valuable hands-on experience, further enhance my skills, and contribute meaningfully to the institution. I am confident in my ability to perform clerical tasks, handle documents, and assist with basic office functions in a responsible and professional manner.
+I sincerely hope for your kind consideration of my application. Thank you very much for your time and attention, and I look forward to the opportunity to contribute to your office.
+Respectfully yours,
+JERICHO C. BATOLIO
+Student- Applicant
+Appendix H:
+Endorsement Letter
+Appendix I:
+Memorandum of Agreement
+Appendix J:
+Daily Time Record (Time Card)
+Appendix K:
+Certificate of Completion (Placement Agency/Office)
+Appendix L:
+Certificate of Clearance 
+(Placement Agency/Office)
+Appendix M:
+Performance/Proficiency Rating Sheet (Placement Agency/Office)
+
+Appendix N:
+Pictures during Pre-service Seminar
+Appendix O:
+Pictures during Office Works
+
+Appendix P:
+Code of Ethics for CAST Student Internship
+Preamble:
+I will use my special knowledge for the benefit of the public. I will serve employees and clients with integrity, subject to an overriding responsibility to the public interest, and I will strive to enhance the competence and prestige of the profession. By these means:
+I will promote public knowledge understanding and appreciation of information technology.
+I will consider the general welfare and public good in the performance of my work. 
+I will advertise goods or professional services in a clear and truthful manner.
+I will comply and strictly abide by the intellectual property laws, patent laws and other related laws on respect of information technology.
+I will accept full responsibility for the work undertaken and utilize skills with competence and professionalism.
+I will make truthful statement on my areas of competence as well as the capabilities and qualities of my products or services. 
+I will not disclose any confidential information obtained in the course of professional duties without the consent of the parties concerned, except when required by law. 
+I will try to attain the highest quality in both the products and services that I offer.   
+I will not knowingly participate in the development of information technology system that promotes the commission of proud and other unlawful acts.
+I will uphold and improve the IT profession standard through continuing professional development in order to enhance the IT professionals.
+Appendix Q:      
+Curriculum Vitae
+JERICHO C. BATOLIO
+Concepcion Calintaan, Occidental Mindoro
+jerichobatolio@gmail.com
+09532956095
+OBJECTIVES
+To obtain a challenging position where I can effectively utilize my skills, education, and strong people-oriented abilities to contribute to the success of the organization and advance my career.
+EDUCATIONAL BACKGROUND 
+Tertiary:Occidental Mindoro State College- Undergraduate
+  Bachelor of Science in Information Technology 
+                                        (2022-present)
+Secondary:Concepcion National High School
+                                        (2020-2021)
+Primary:                         Concepcion Elementary School
+(2010-2016)
+TRAINING AND SEMINARS ATTENDED
+Title of Training/Seminars
+Sponsoring Agency
+Inclusive Dates
+SKILLS AND INTEREST 
+Proficient in Office Productivity Tools (Microsoft Word, Excel, PowerPoint)
+Proficient in Multimedia Tools (Adobe Photoshop, Power Director)
+Average in Programming (C++, VB10, HTML)
+PERSONAL DATA:
+Age: 21
+Sex: Male
+Date of Birth: June 03  2004
+Place of Birth: Concepcion Calintaan Occidental Mindoro
+Civil Status: Single
+Height: 174
+Weight: 79
+Religion: Roman Catholic
+Father’s Name: Melchor Batolio
+Mother’s name: Raquel Batolio
+CHARACTER REFERECES:
+Name:
+Position
+Company
+Contact No.
+Name:
+Position
+Company
+Contact No.
+I hereby certify that all the above information is true and correct to the best of my knowledge and beliefs.
+JERICHO C. BATOLIO
+Signature over Printed Name
+Appendix R:
+On-the-Job Training Portfolio Evaluation Form
+Name of Student:Batolio, Jericho C.
+Course: BSIT 4C
+Name of Agency: Multimedia , San JoseCampus
+Period Covered: January- April 
+Address: Tinindugan, Libertad, Antique
+CRITERIA
+PERCENT
+RATING
+1. Quality of Content (60%)
+Grammar
+Organization
+2. Quality of format (40%)
+Spacing
+Margins 
+Heading
+     Typeset & Paging
+Tables and Pictures
+General Average
+100%
+Note: The rating shall be the average of the sum total of raters
+Appendix S:
+Website Link of E-Portfolio
+
+ https://sites.google.com/view/cadigal-4d-portfolio/home

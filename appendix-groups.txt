@@ -1,0 +1,64 @@
+Para=0	Appendix=(none)	Target=media/image1.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image2.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image3.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image4.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image5.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image6.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image7.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image8.png	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=0	Appendix=(none)	Target=media/image9.jpeg	Text=ON-THE-JOB TRAINING ON-THE-JOB TRAINING
+Para=12	Appendix=(none)	Target=media/image5.png	Text=BSIT 4 C BSIT 4 C Jericho C.  Batolio Jericho C.  Batolio L L O O I I O O F F T T R R
+Para=246	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image16.png	Text=
+Para=256	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image17.png	Text=
+Para=256	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image18.png	Text=
+Para=256	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image19.png	Text=
+Para=259	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image20.png	Text=
+Para=277	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image21.png	Text=
+Para=327	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image22.png	Text=
+Para=490	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image23.jpeg	Text=
+Para=565	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image6.png	Text=
+Para=1004	Appendix=Appendix  R:  On-the-Job  Training  Portfolio  Evaluation  For	Target=media/image6.png	Text=
+Para=1034	Appendix=Appendix  A:	Target=media/image24.jpg	Text=
+Para=1048	Appendix=Appendix B:	Target=media/image25.png	Text=
+Para=1079	Appendix=Appendix C:	Target=media/image26.jpeg	Text=
+Para=1099	Appendix=Appendix C:	Target=media/image27.jpeg	Text=
+Para=1127	Appendix=Appendix D:	Target=media/image28.png	Text=
+Para=1175	Appendix=Appendix E :	Target=media/image29.png	Text=
+Para=1215	Appendix=Appendix F	Target=media/image30.jpeg	Text=
+Para=1241	Appendix=Appendix G:	Target=media/image31.png	Text=
+Para=1260	Appendix=Appendix H:	Target=media/image32.jpg	Text=
+Para=1302	Appendix=Appendix J:	Target=media/image33.jpeg	Text=
+Para=1311	Appendix=Appendix J:	Target=media/image34.jpeg	Text=
+Para=1326	Appendix=Appendix K:	Target=media/image35.jpeg	Text=
+Para=1348	Appendix=Appendix L:	Target=media/image36.jpeg	Text=
+Para=1364	Appendix=Appendix M:	Target=media/image37.jpeg	Text=
+Para=1376	Appendix=Appendix M:	Target=media/image38.jpeg	Text=
+Para=1388	Appendix=Appendix M:	Target=media/image39.jpeg	Text=
+Para=1412	Appendix=Appendix M:	Target=media/image40.jpeg	Text=
+Para=1419	Appendix=Appendix N:	Target=media/image41.jpeg	Text=
+Para=1419	Appendix=Appendix N:	Target=media/image42.png	Text=
+Para=1419	Appendix=Appendix N:	Target=media/image43.png	Text=
+Para=1431	Appendix=Appendix N:	Target=media/image44.jpeg	Text=
+Para=1431	Appendix=Appendix N:	Target=media/image45.jpeg	Text=
+Para=1431	Appendix=Appendix N:	Target=media/image46.jpeg	Text=
+Para=1447	Appendix=Appendix N:	Target=media/image47.jpeg	Text=
+Para=1447	Appendix=Appendix N:	Target=media/image48.jpeg	Text=
+Para=1447	Appendix=Appendix N:	Target=media/image49.jpeg	Text=
+Para=1469	Appendix=Appendix O:	Target=media/image50.jpeg	Text=
+Para=1469	Appendix=Appendix O:	Target=media/image51.jpeg	Text=
+Para=1469	Appendix=Appendix O:	Target=media/image52.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image53.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image54.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image55.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image56.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image57.jpeg	Text=
+Para=1474	Appendix=Appendix O:	Target=media/image58.jpeg	Text=
+Para=1541	Appendix=Appendix Q:	Target=media/image59.png	Text=
+Para=1548	Appendix=Appendix Q:	Target=media/image60.png	Text=
+Para=1552	Appendix=Appendix Q:	Target=media/image60.png	Text=
+Para=1572	Appendix=Appendix Q:	Target=media/image60.png	Text=SKILLS AND INTEREST
+Para=1572	Appendix=Appendix Q:	Target=media/image60.png	Text=SKILLS AND INTEREST
+Para=1576	Appendix=Appendix Q:	Target=media/image60.png	Text=
+Para=1591	Appendix=Appendix Q:	Target=media/image60.png	Text=
+Para=1606	Appendix=Appendix Q:	Target=media/image61.png	Text=I hereby certify that all the above information is true and correct to the best of my knowledge and beliefs.
+Para=1695	Appendix=Appendix R :	Target=media/image62.png	Text=
