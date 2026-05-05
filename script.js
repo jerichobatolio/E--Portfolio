@@ -204,11 +204,22 @@ if (gallery) {
   const absoluteAssetUrl = (relativePath) =>
     new URL(String(relativePath).replace(/^\//, ""), appendixAssetBase).href;
 
+  const appendixResolveSrc = (ref) => {
+    if (/^(?:https?:|file:|data:)/i.test(ref)) {
+      return ref;
+    }
+    const path = ref.includes("/") ? ref : `assets/images/${ref}`;
+    return absoluteAssetUrl(path);
+  };
+
   const appendixImageMap = [
     {
       appendix: "Appendix A",
       title: "Evaluation Form (Registrar's Office)",
-      files: ["image24.jpg"],
+      files: [
+        "assets/images/export/image-0c81d4d8-6d9d-4f14-be20-e46a86a8730e.png",
+        "assets/images/export/image-6edf06c9-a0ba-42f4-b9a4-e283f9994687.png",
+      ],
     },
     { appendix: "Appendix B", title: "Photocopy of Registration Form", files: ["image25.png"] },
     { appendix: "Appendix C", title: "Photocopy of Validated ID", files: ["image26.jpeg", "image27.jpeg"] },
@@ -216,14 +227,17 @@ if (gallery) {
     {
       appendix: "Appendix E",
       title: "Medical Certificate",
-      files: ["image29.png"],
+      files: [
+        "image29.png",
+        "assets/images/export/image-7af1e454-128b-42c3-8ccf-f237f9a1ddb9.png",
+      ],
     },
-    { appendix: "Appendix F", title: "Certificate of Good Moral Character", files: ["image30.jpeg"] },
+    { appendix: "Appendix F", title: "Certificate of Good Moral Character", files: [] },
     {
       appendix: "Appendix G",
       title: "Application Letter",
       contentType: "letter",
-      signatureImage: "assets/images/image31.png",
+      signatureImage: "assets/images/export/image-fdbe5550-f213-423b-aed1-cf43cc6d0dd6.png",
       letterData: {
         heading: "Application Letter",
         date: "January 26, 2026",
@@ -243,29 +257,38 @@ if (gallery) {
     {
       appendix: "Appendix H",
       title: "Endorsement Letter",
-      files: ["image32.jpg"],
+      files: [
+        "assets/images/export/image-4efe9cc5-e58d-4deb-8b1f-4884c09dbcb7.png",
+      ],
     },
-    { appendix: "Appendix J", title: "Daily Time Record (Time Card)", files: ["image33.jpeg", "image34.jpeg"] },
+    { appendix: "Appendix J", title: "Daily Time Record (Time Card)", files: [] },
     {
       appendix: "Appendix K",
       title: "Certificate of Completion (Placement Agency/Office)",
-      files: ["image35.jpeg"],
+      files: [
+        "assets/images/export/image-b49ee60b-9dcf-4c54-9f46-a377e9f6676e.png",
+      ],
     },
     {
       appendix: "Appendix L",
       title: "Certificate of Clearance (Placement Agency/Office)",
-      files: ["image36.jpeg"],
+      files: [
+        "assets/images/export/image-51e0f87e-b1b3-47ad-8daf-ea3d5abd56d4.png",
+      ],
     },
     {
       appendix: "Appendix M",
       title: "Performance/Proficiency Rating Sheet (Placement Agency/Office)",
-      files: ["image37.jpeg", "image38.jpeg", "image39.jpeg", "image40.jpeg"],
+      files: [
+        "assets/images/export/image-4a16b77c-6cee-44ca-a6fd-31672824bd95.png",
+        "assets/images/export/image-b73e1b9b-532e-4200-9cf4-ceb93f7a7177.png",
+        "assets/images/export/image-aeb05d22-efe3-42e8-85a9-f67d0e9d2443.png",
+      ],
     },
     {
       appendix: "Appendix N",
       title: "Pictures during Pre-service Seminar",
       files: [
-        "image41.jpeg",
         "image42.png",
         "image43.png",
         "image44.jpeg",
@@ -280,7 +303,7 @@ if (gallery) {
       appendix: "Appendix O",
       title: "Pictures during Office Works",
       files: [
-        "image50.jpeg",
+        "assets/images/export/image-e6015628-c2b5-4b78-a44a-6c1a7674e312.png",
         "image51.jpeg",
         "image52.jpeg",
         "image53.jpeg",
@@ -320,7 +343,7 @@ if (gallery) {
       title: "Curriculum Vitae",
       contentType: "cv",
       photo: "image59.png",
-      signatureImage: "assets/images/image61.png",
+      signatureImage: "assets/images/export/image-fdbe5550-f213-423b-aed1-cf43cc6d0dd6.png",
       cvData: {
         name: "JERICHO C. BATOLIO",
         address: "Concepcion Calintaan, Occidental Mindoro",
@@ -477,6 +500,7 @@ if (gallery) {
             background: #fff;
             padding: 6px;
             border-radius: 6px;
+            box-sizing: border-box;
           }
           @media (max-width: 760px) {
             body { padding: 0.7rem; }
@@ -621,7 +645,7 @@ if (gallery) {
         const signatureWrap = document.createElement("figure");
         signatureWrap.className = "letter-signature";
         const signature = document.createElement("img");
-        signature.src = absoluteAssetUrl(group.signatureImage);
+        signature.src = appendixResolveSrc(group.signatureImage);
         signature.alt = "Signature";
         signature.loading = "lazy";
         signature.decoding = "async";
@@ -676,7 +700,7 @@ if (gallery) {
         const photoWrap = document.createElement("figure");
         photoWrap.className = "cv-photo";
         const photo = document.createElement("img");
-        photo.src = absoluteAssetUrl(`assets/images/${group.photo}`);
+        photo.src = appendixResolveSrc(`assets/images/${group.photo}`);
         photo.alt = "Curriculum Vitae photo";
         photo.loading = "lazy";
         photo.decoding = "async";
@@ -774,7 +798,7 @@ if (gallery) {
         const signatureWrap = document.createElement("figure");
         signatureWrap.className = "cv-signature";
         const signature = document.createElement("img");
-        signature.src = absoluteAssetUrl(group.signatureImage);
+        signature.src = appendixResolveSrc(group.signatureImage);
         signature.alt = "Signature";
         signature.loading = "lazy";
         signature.decoding = "async";
@@ -855,7 +879,7 @@ if (gallery) {
         textImage.className = "appendix-text-image";
 
         const img = document.createElement("img");
-        img.src = absoluteAssetUrl(`assets/images/${group.headerImage}`);
+        img.src = appendixResolveSrc(`assets/images/${group.headerImage}`);
         img.alt = `${group.appendix} featured image`;
         img.loading = "lazy";
         img.decoding = "async";
@@ -902,13 +926,20 @@ if (gallery) {
       const imageGrid = document.createElement("div");
       imageGrid.className = "appendix-images";
 
+      const blockedInAppendixN = new Set([
+        "assets/images/export/image-9fa03fd9-000a-4562-87c1-11745b6cc731.png",
+        "assets/images/export/image-e6015628-c2b5-4b78-a44a-6c1a7674e312.png",
+      ]);
+
       group.files.forEach((fileName) => {
+        if (group.appendix === "Appendix N" && blockedInAppendixN.has(fileName)) {
+          return;
+        }
         const figure = document.createElement("figure");
         figure.className = "gallery-item";
 
         const img = document.createElement("img");
-        const isAbsolutePath = /^(?:https?:|file:|data:)/i.test(fileName);
-        img.src = isAbsolutePath ? fileName : absoluteAssetUrl(`assets/images/${fileName}`);
+        img.src = appendixResolveSrc(fileName);
         img.alt = `${group.appendix} - ${fileName}`;
         img.loading = "lazy";
         img.decoding = "async";
