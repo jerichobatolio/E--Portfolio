@@ -191,7 +191,7 @@ body {
   overflow: hidden;
   background-image:
     linear-gradient(110deg, rgba(4, 10, 26, 0.82), rgba(8, 16, 36, 0.74)),
-    url("file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-0404e497-9036-4306-9a02-80e2537f7f31.png");
+    url("assets/images/hero-campus.png");
   background-size: cover;
   background-position: center center;
   min-height: calc(100vh - 64px);

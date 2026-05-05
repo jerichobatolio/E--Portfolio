@@ -187,10 +187,7 @@ if (gallery) {
     {
       appendix: "Appendix A",
       title: "Evaluation Form (Registrar's Office)",
-      files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-0c81d4d8-6d9d-4f14-be20-e46a86a8730e.png",
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-6edf06c9-a0ba-42f4-b9a4-e283f9994687.png",
-      ],
+      files: ["image24.jpg"],
     },
     { appendix: "Appendix B", title: "Photocopy of Registration Form", files: ["image25.png"] },
     { appendix: "Appendix C", title: "Photocopy of Validated ID", files: ["image26.jpeg", "image27.jpeg"] },
@@ -198,17 +195,14 @@ if (gallery) {
     {
       appendix: "Appendix E",
       title: "Medical Certificate",
-      files: [
-        "image29.png",
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-7af1e454-128b-42c3-8ccf-f237f9a1ddb9.png",
-      ],
+      files: ["image29.png"],
     },
-    { appendix: "Appendix F", title: "Certificate of Good Moral Character", files: [] },
+    { appendix: "Appendix F", title: "Certificate of Good Moral Character", files: ["image30.jpeg"] },
     {
       appendix: "Appendix G",
       title: "Application Letter",
       contentType: "letter",
-      signatureImage: "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-fdbe5550-f213-423b-aed1-cf43cc6d0dd6.png",
+      signatureImage: "assets/images/image31.png",
       letterData: {
         heading: "Application Letter",
         date: "January 26, 2026",
@@ -228,38 +222,29 @@ if (gallery) {
     {
       appendix: "Appendix H",
       title: "Endorsement Letter",
-      files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-4efe9cc5-e58d-4deb-8b1f-4884c09dbcb7.png",
-      ],
+      files: ["image32.jpg"],
     },
-    { appendix: "Appendix J", title: "Daily Time Record (Time Card)", files: [] },
+    { appendix: "Appendix J", title: "Daily Time Record (Time Card)", files: ["image33.jpeg", "image34.jpeg"] },
     {
       appendix: "Appendix K",
       title: "Certificate of Completion (Placement Agency/Office)",
-      files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-b49ee60b-9dcf-4c54-9f46-a377e9f6676e.png",
-      ],
+      files: ["image35.jpeg"],
     },
     {
       appendix: "Appendix L",
       title: "Certificate of Clearance (Placement Agency/Office)",
-      files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-51e0f87e-b1b3-47ad-8daf-ea3d5abd56d4.png",
-      ],
+      files: ["image36.jpeg"],
     },
     {
       appendix: "Appendix M",
       title: "Performance/Proficiency Rating Sheet (Placement Agency/Office)",
-      files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-4a16b77c-6cee-44ca-a6fd-31672824bd95.png",
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-b73e1b9b-532e-4200-9cf4-ceb93f7a7177.png",
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-aeb05d22-efe3-42e8-85a9-f67d0e9d2443.png",
-      ],
+      files: ["image37.jpeg", "image38.jpeg", "image39.jpeg", "image40.jpeg"],
     },
     {
       appendix: "Appendix N",
       title: "Pictures during Pre-service Seminar",
       files: [
+        "image41.jpeg",
         "image42.png",
         "image43.png",
         "image44.jpeg",
@@ -274,7 +259,7 @@ if (gallery) {
       appendix: "Appendix O",
       title: "Pictures during Office Works",
       files: [
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-e6015628-c2b5-4b78-a44a-6c1a7674e312.png",
+        "image50.jpeg",
         "image51.jpeg",
         "image52.jpeg",
         "image53.jpeg",
@@ -314,7 +299,7 @@ if (gallery) {
       title: "Curriculum Vitae",
       contentType: "cv",
       photo: "image59.png",
-      signatureImage: "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-fdbe5550-f213-423b-aed1-cf43cc6d0dd6.png",
+      signatureImage: "assets/images/image61.png",
       cvData: {
         name: "JERICHO C. BATOLIO",
         address: "Concepcion Calintaan, Occidental Mindoro",
@@ -888,15 +873,7 @@ if (gallery) {
       const imageGrid = document.createElement("div");
       imageGrid.className = "appendix-images";
 
-      const blockedInAppendixN = new Set([
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-9fa03fd9-000a-4562-87c1-11745b6cc731.png",
-        "file:///C:/Users/JERICHO%20C.%20BATOLIO/.cursor/projects/c-E-PORTFOLIO/assets/c__Users_JERICHO_C._BATOLIO_AppData_Roaming_Cursor_User_workspaceStorage_78a2b324067eba5e7ff92865e8c496bb_images_image-e6015628-c2b5-4b78-a44a-6c1a7674e312.png",
-      ]);
-
       group.files.forEach((fileName) => {
-        if (group.appendix === "Appendix N" && blockedInAppendixN.has(fileName)) {
-          return;
-        }
         const figure = document.createElement("figure");
         figure.className = "gallery-item";
 
