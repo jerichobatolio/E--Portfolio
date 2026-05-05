@@ -183,6 +183,27 @@ const gallery = document.querySelector("#image-gallery");
 const appendixTabs = document.querySelector("#appendix-tabs");
 
 if (gallery) {
+  const resolveAppendixDocumentBaseHref = () => {
+    const url = new URL(window.location.href);
+    url.hash = "";
+    let path = url.pathname;
+    const lastSegment = path.split("/").pop() || "";
+    const lastLooksLikeFile = /\.[a-z0-9]{2,5}$/i.test(lastSegment);
+    if (!path.endsWith("/")) {
+      if (lastLooksLikeFile) {
+        path = path.replace(/\/[^/]+$/, "/");
+      } else {
+        path = `${path}/`;
+      }
+    }
+    url.pathname = path;
+    return url.href;
+  };
+
+  const appendixAssetBase = resolveAppendixDocumentBaseHref();
+  const absoluteAssetUrl = (relativePath) =>
+    new URL(String(relativePath).replace(/^\//, ""), appendixAssetBase).href;
+
   const appendixImageMap = [
     {
       appendix: "Appendix A",
@@ -401,9 +422,9 @@ if (gallery) {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <base href="${window.location.href}">
+        <base href="${appendixAssetBase}">
         <title>${group?.appendix || "Appendix"} - ${subtitle}</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="${absoluteAssetUrl("styles.css")}">
         <style>
           body {
             margin: 0;
@@ -448,6 +469,14 @@ if (gallery) {
           .gallery-item img {
             object-fit: contain;
             padding: 0.4rem;
+          }
+          .letter-signature img,
+          .cv-signature img {
+            max-width: 220px;
+            height: auto;
+            background: #fff;
+            padding: 6px;
+            border-radius: 6px;
           }
           @media (max-width: 760px) {
             body { padding: 0.7rem; }
@@ -592,7 +621,7 @@ if (gallery) {
         const signatureWrap = document.createElement("figure");
         signatureWrap.className = "letter-signature";
         const signature = document.createElement("img");
-        signature.src = group.signatureImage;
+        signature.src = absoluteAssetUrl(group.signatureImage);
         signature.alt = "Signature";
         signature.loading = "lazy";
         signature.decoding = "async";
@@ -647,7 +676,7 @@ if (gallery) {
         const photoWrap = document.createElement("figure");
         photoWrap.className = "cv-photo";
         const photo = document.createElement("img");
-        photo.src = `assets/images/${group.photo}`;
+        photo.src = absoluteAssetUrl(`assets/images/${group.photo}`);
         photo.alt = "Curriculum Vitae photo";
         photo.loading = "lazy";
         photo.decoding = "async";
@@ -745,7 +774,7 @@ if (gallery) {
         const signatureWrap = document.createElement("figure");
         signatureWrap.className = "cv-signature";
         const signature = document.createElement("img");
-        signature.src = group.signatureImage;
+        signature.src = absoluteAssetUrl(group.signatureImage);
         signature.alt = "Signature";
         signature.loading = "lazy";
         signature.decoding = "async";
@@ -826,7 +855,7 @@ if (gallery) {
         textImage.className = "appendix-text-image";
 
         const img = document.createElement("img");
-        img.src = `assets/images/${group.headerImage}`;
+        img.src = absoluteAssetUrl(`assets/images/${group.headerImage}`);
         img.alt = `${group.appendix} featured image`;
         img.loading = "lazy";
         img.decoding = "async";
@@ -879,14 +908,10 @@ if (gallery) {
 
         const img = document.createElement("img");
         const isAbsolutePath = /^(?:https?:|file:|data:)/i.test(fileName);
-        img.src = isAbsolutePath ? fileName : `assets/images/${fileName}`;
+        img.src = isAbsolutePath ? fileName : absoluteAssetUrl(`assets/images/${fileName}`);
         img.alt = `${group.appendix} - ${fileName}`;
         img.loading = "lazy";
         img.decoding = "async";
-
-        img.addEventListener("error", () => {
-          figure.remove();
-        });
 
         figure.appendChild(img);
         imageGrid.appendChild(figure);

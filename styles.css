@@ -642,6 +642,11 @@ h2 {
   width: 100%;
   height: auto;
   display: block;
+  max-width: 220px;
+  background: #fff;
+  padding: 6px;
+  border-radius: 6px;
+  box-sizing: border-box;
 }
 
 .cv-cert-name {
@@ -736,6 +741,11 @@ h2 {
   width: 100%;
   height: auto;
   display: block;
+  max-width: 220px;
+  background: #fff;
+  padding: 6px;
+  border-radius: 6px;
+  box-sizing: border-box;
 }
 
 .letter-name {
